@@ -1,0 +1,16 @@
+{
+  "frontendFolder": "D:/tipa/dbw-system/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "D:/tipa/dbw-system/./frontend/generated/jar-resources",
+  "staticOutput": "D:/tipa/dbw-system/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "D:\\tipa\\dbw-system\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "D:\\tipa\\dbw-system\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "jarResourcesFolder": "D:/tipa/dbw-system/./frontend/generated/jar-resources",
+  "generatedFlowImportsFolder": "target/frontend",
+  "themeName": "dbwsoftware",
+  "clientServiceWorkerSource": "D:\\tipa\\dbw-system\\target\\sw.ts",
+  "pwaEnabled": true,
+  "offlineEnabled": true,
+  "offlinePath": "'.'"
+}
